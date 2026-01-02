@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project 3 – Secret Message Encoder (Caesar Cipher)
 
 This program works as an **Encoder/Decoder** using the **Caesar Cipher** logic.
@@ -68,4 +67,3 @@ gcc Project3.c -o cipher
 
 - support Both **uppercase and lowercase** letters.
 - include a ***validation system*** to make sure the user don't mess the inputs.
->>>>>>> b8b6f4c3999a7bdb80f205e116e525907021805f
