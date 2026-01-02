@@ -62,4 +62,3 @@ gcc Project3.c -o cipher
 ### Example
 - 'd' with shift key 3 becomes 'a'
 - 'K' with shift key 13 becomes 'X'
-======
