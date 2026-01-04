@@ -45,7 +45,7 @@ int main() {
     }
 
     if (order == 1) {
-        for (int i = 0; i < 26; i++) {
+        for (int i = 0; i < msg[i] != '\0'; i++) {
             for (int j = 0; j < 26; j++) {
                 //for lowercase latters
                 if (msg[i] == Alpabet_lowercase[j]) {
